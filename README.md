@@ -32,4 +32,4 @@ To start or end the event you can use one of the methods below:
 - [Configuration Guide](https://github.com/northwood-studios/LabAPI/wiki/Configuring-Plugins)
 
 # 🖼 Gallery
-https://github.com/user-attachments/assets/6a951edb-0bf7-4005-9439-70abd6227f76
+https://github.com/user-attachments/assets/02ee0c1f-1568-40c2-85cf-dcfc42965b6c
